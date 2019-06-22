@@ -1,0 +1,19 @@
+@import "~bulma";
+
+html {
+  overflow-y: auto;
+}
+
+fieldset {
+  legend {
+    background: white;
+  }
+}
+
+.col-green{
+  color: green;
+}
+
+.col-red{
+  color: red;
+}
